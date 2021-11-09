@@ -1,0 +1,28 @@
+.list-container {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  align-items: center;
+
+  margin-bottom: 20px;
+}
+.list-item {
+  list-style-type: none;
+  width: 500px;
+}
+.list-content {
+  display: flex;
+  font-size: 10px;
+}
+.para {
+  padding-right: 20px;
+  font-size: 10px;
+}
+.logo {
+  width: 30px;
+  height: 40px;
+}
+.left-section {
+  display: flex;
+}
